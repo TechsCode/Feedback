@@ -1,2 +1,1 @@
-# Feedback
-This is the feedback repository for TechsCode's plugins. Suggestions, Enhancements and Bugs can be posted here.
+# Please head over to the [Discussion Tab](https://github.com/TechsCode-Team/Feedback/discussions) - Thank you !
