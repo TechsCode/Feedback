@@ -1,1 +1,1 @@
-# Please head over to the [Discussion Tab](https://github.com/TechsCode-Team/Feedback/discussions) - Thank you !
+## Feedbacks are now on our Discord server using Discord's new forum feature.
